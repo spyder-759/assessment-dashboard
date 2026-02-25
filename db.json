@@ -1,0 +1,65 @@
+{
+  "assessments": [
+    {
+      "id": 1,
+      "title": "Java Basics Test",
+      "duration": 30,
+      "totalMarks": 20
+    },
+    {
+      "id": 2,
+      "title": "React Fundamentals",
+      "duration": 25,
+      "totalMarks": 15
+    }
+  ],
+  "questions": [
+    {
+      "id": 1,
+      "assessmentId": 1,
+      "questionText": "What is Java?",
+      "optionA": "Language",
+      "optionB": "Database",
+      "optionC": "Browser",
+      "optionD": "Library",
+      "marks": 5
+    },
+    {
+      "id": 2,
+      "assessmentId": 2,
+      "questionText": "What is React?",
+      "optionA": "Library",
+      "optionB": "Database",
+      "optionC": "Language",
+      "optionD": "Framework",
+      "marks": 5
+    }
+  ],
+  "attempts": [],
+  "results": [
+    {
+      "id": 1,
+      "assessmentId": 1,
+      "candidateName": "Bikram",
+      "score": 18
+    },
+    {
+      "id": 2,
+      "assessmentId": 1,
+      "candidateName": "Riya",
+      "score": 15
+    },
+    {
+      "id": "a106",
+      "assessmentId": 1,
+      "candidateName": "Language",
+      "score": 0
+    },
+    {
+      "id": "0c12",
+      "assessmentId": 2,
+      "candidateName": "bikram",
+      "score": 0
+    }
+  ]
+}
